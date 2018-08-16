@@ -5,7 +5,7 @@ import time
 import pyautogui
 import tensorflow as tf
 from grabscreen import grab_screen
-from directkeys import PressKey, UP, DOWN, LEFT, RIGHT, LSHIFT
+from directkeys import PressKey, UP, DOWN, LEFT, RIGHT, LSHIFT, CTRL
 import tensorflow as tf
 from tensorflow import keras
 

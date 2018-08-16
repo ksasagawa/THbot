@@ -9,7 +9,7 @@ UP = 0xC8
 RIGHT = 0xCD
 DOWN = 0xD0
 LSHIFT = 0x2A
-
+CRTL = 0x1D
 # C struct redefinitions 
 PUL = ctypes.POINTER(ctypes.c_ulong)
 class KeyBdInput(ctypes.Structure):
